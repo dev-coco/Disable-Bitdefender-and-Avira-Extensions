@@ -80,6 +80,44 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.Edge</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>ExtensionInstallBlocklist</key>
+								<array>
+									<string>caljgklbbfbcjjanaijlacgncafpegll</string>
+									<string>ccbpbkebodcjkknkfkpmfeciinhidaeh</string>
+									<string>flliilndjeohchalpbbcdekjklbdgfkk</string>
+									<string>bkpfgkeiepbjhnkndijolimmchknlfpf</string>
+									<string>khndhdhbebhaddchcgnalcjlaekbbeof</string>
+									<string>acnnndlhgdnjdindloiaocffbnipjjcc</string>
+									<string>cfnpidifppmenkapgihekkeednfoenal</string>
+								</array>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Disable Bitdefender and Avira force install extensions</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.Edge.BitdefenderAndAviraExtensions</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>d525d998-e332-4462-bc93-c5aaf7d9c85d</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>Disable Bitdefender and Avira force install extensions</string>
