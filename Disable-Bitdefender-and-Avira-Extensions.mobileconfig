@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.brave.Browser</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>ExtensionInstallBlocklist</key>
+								<array>
+									<string>caljgklbbfbcjjanaijlacgncafpegll</string>
+									<string>ccbpbkebodcjkknkfkpmfeciinhidaeh</string>
+									<string>flliilndjeohchalpbbcdekjklbdgfkk</string>
+									<string>bkpfgkeiepbjhnkndijolimmchknlfpf</string>
+									<string>khndhdhbebhaddchcgnalcjlaekbbeof</string>
+									<string>acnnndlhgdnjdindloiaocffbnipjjcc</string>
+									<string>cfnpidifppmenkapgihekkeednfoenal</string>
+								</array>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Disable Bitdefender and Avira force install extensions</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.Brave.BitdefenderAndAviraExtensions</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>9402ddf4-95d5-4f12-b53f-22893d096f6f</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.google.Chrome</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>ExtensionInstallBlocklist</key>
+								<array>
+									<string>caljgklbbfbcjjanaijlacgncafpegll</string>
+									<string>ccbpbkebodcjkknkfkpmfeciinhidaeh</string>
+									<string>flliilndjeohchalpbbcdekjklbdgfkk</string>
+									<string>bkpfgkeiepbjhnkndijolimmchknlfpf</string>
+									<string>khndhdhbebhaddchcgnalcjlaekbbeof</string>
+									<string>acnnndlhgdnjdindloiaocffbnipjjcc</string>
+									<string>cfnpidifppmenkapgihekkeednfoenal</string>
+								</array>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Disable Bitdefender and Avira force install extensions</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.Chrome.BitdefenderAndAviraExtensions</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>6a2f3574-5874-4d8c-8885-0291c5642eb4</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disable Bitdefender and Avira force install extensions</string>
+	<key>PayloadDisplayName</key>
+	<string>Disable Bitdefender and Avira force install extensions</string>
+	<key>PayloadIdentifier</key>
+	<string>com.BitdefenderAndAviraExtensions</string>
+	<key>PayloadOrganization</key>
+	<string>Example Company Inc.</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4a18a8abb7ff531f398fee8c3b8b3ca5829c38fdee66e1bf87c84771d34659ec13</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
